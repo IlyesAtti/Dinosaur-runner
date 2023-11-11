@@ -1,0 +1,33 @@
+.container-md {
+    position: relative;
+    width: 800px;
+    height: 200px;
+    border: 2px solid rgb(6, 6, 6);
+    margin: 0 auto;
+  }
+
+p#score.container-sm {
+  text-align: center;
+}
+
+.dino {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  border: 15px solid black;
+  color:black;
+  left: 5%;
+  top: 75%; 
+  transform: translate(-50%, -50%);
+}
+
+.obstacle {
+  position: relative;
+  width: 15px;
+  height: 35px;
+  border: 15px solid red;
+  color:red;
+  top: 60%;
+  left: 100%;
+  transform: translate(-50%, -50%);
+}
