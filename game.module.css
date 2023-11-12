@@ -4,6 +4,7 @@
     height: 200px;
     border: 2px solid rgb(6, 6, 6);
     margin: 0 auto;
+    min-width: 800px;
   }
 
 p#score.container-sm {
@@ -28,6 +29,6 @@ p#score.container-sm {
   border: 15px solid red;
   color:red;
   top: 60%;
-  left: 100%;
+  left: 770px;
   transform: translate(-50%, -50%);
 }
