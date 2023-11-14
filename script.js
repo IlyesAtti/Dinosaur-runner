@@ -2,7 +2,7 @@ document.onkeydown = detectKey;
 let score = 0;
 let obstaclesLeft = 770;
 let stop = 0;
-let fallTime = 1000;
+let fallTime = 1000;    //1s
 let obstacleSpeed = 10;
 
 function start() {
